@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kalkulator">Simply Calculator</string>
+    <string name="bilangan_pertama">Bilangan Pertama</string>
+    <string name="bilangan_kedua">Bilangan Kedua</string>
+    <string name="Tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="Kali">X</string>
+    <string name="bagi">:</string>
+    <string name="hasil">Hasil Perhitungan</string>
+    <string name="bilanganKesatu">Bilangan Pertama</string>
+</resources>

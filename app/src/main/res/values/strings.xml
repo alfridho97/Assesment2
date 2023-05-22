@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simply Calculator</string>
+    <string name="kalkulator">Simply Calculator</string>
+    <string name="bilangan_pertama">Bilangan Pertama</string>
+    <string name="bilangan_pertama_invalid">Bilangan Pertama tidak boleh kosong.</string>
+    <string name="bilangan_kedua_invalid">Bilangan Kedua tidak boleh kosong.</string>
+    <string name="bilangan_kedua">Bilangan Kedua</string>
+    <string name="Tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="Kali">X</string>
+    <string name="bagi">:</string>
+    <string name="hasil">Hasil Perhitungan</string>
+    <string name="bilanganSatu">Bilangan Pertama</string>
+    <string name="bilanganKesatu">Bilangan Pertama</string>
+</resources>
